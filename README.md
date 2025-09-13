@@ -26,7 +26,6 @@
 ## 📈 Mi Journey como Ingeniero
 
 ```text
-🎓 Ingeniería de Sistemas:  ████████████████████░░   85%
 💻 Full-Stack Development:  ███████████████░░░░░░░   70%
 🔒 Ciberseguridad:         ██████████░░░░░░░░░░░░   45%
 🤖 IA & Machine Learning:  ████████░░░░░░░░░░░░░░   35%
@@ -77,7 +76,6 @@
 <div align="center">
   
 
-</div>## Hi there 👋
 
 <!--
 **Code-alExPriMo/Code-alExPriMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
