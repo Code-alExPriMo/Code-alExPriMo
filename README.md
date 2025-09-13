@@ -67,9 +67,7 @@
 - 🌐 **FullStack Dashboard**: Panel administrativo completo
 - 🤖 **AI Helper**: Automatizaciones
 
-## 📫 Conecta conmigo
-- 📧 **Email**: 
-- 💼 **LinkedIn**: 
+ 
 
 ---
 
