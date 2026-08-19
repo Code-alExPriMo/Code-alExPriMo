@@ -1,11 +1,11 @@
 # ¡Hola! 👋 Soy Alexander
 
-## 🚀 Sobre mí
-- 🎓 **Estudiante** en constante aprendizaje
-- 💻 **Desarrollador en formación** apasionado por la tecnología
-- 🌱 Actualmente aprendiendo y mejorando mis habilidades
-- 🎯 **Objetivo**: Convertirme en un desarrollador full-stack
-- 📚 Siempre dispuesto a aprender nuevas tecnologías
+## Sobre mí
+- **Estudiante** en constante aprendizaje
+- **Desarrollador en formación** apasionado por la tecnología
+- Actualmente aprendiendo y mejorando mis habilidades
+- **Objetivo**: Convertirme en un desarrollador full-stack
+- Siempre dispuesto a aprender nuevas tecnologías
 
 ## 🛠️ Tecnologías que estoy aprendiendo
 
