@@ -52,14 +52,6 @@
 - ML básico para aplicaciones web
 
 
-## 🎯 Objetivos 2025
-- [ ] 🎓 Graduarme en Ingeniería de Sistemas
-- [ ] 💼 Conseguir mi primera pasantía en desarrollo
-- [ ] 🔒 Obtener certificación en ciberseguridad
-- [ ] 🤖 Desarrollar un proyecto con IA integrada
-- [ ] 🌐 Contribuir a proyectos open source
-- [ ] 📚 Dominar un nuevo framework
-
 ## 🌟 Lo que me impulsa
 > "En un mundo digital en constante evolución, la seguridad y la innovación van de la mano. Mi misión es construir tecnología segura y accesible para todos."
 
