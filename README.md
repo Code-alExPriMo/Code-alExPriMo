@@ -19,9 +19,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Inteligencia Artificial
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 
 ## 📈 Mi Journey como Ingeniero
 
